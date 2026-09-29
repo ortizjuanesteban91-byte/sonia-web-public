@@ -1,2 +1,5 @@
-# sonia-web-public
-Public Sonia Realtors site files. Live site: https://sonia-web-preview.vercel.app/
+# Sonia Realtors
+
+Live site (unlocked): https://sonia-web-preview.vercel.app/
+
+This repo is public. The website is on Vercel project sonia-web-preview.
